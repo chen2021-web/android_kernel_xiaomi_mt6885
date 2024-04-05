@@ -13,7 +13,7 @@ on:
        KERNEL_DEFCONFIG:
          description: 'Defconfig'
          required: true
-         default: 'vendor/cezanne_user_defconfig'
+         default: 'vendor/bomb_user_defconfig'
        KERNEL_FILE:
          description: 'Your kernel out image name'
          required: true
